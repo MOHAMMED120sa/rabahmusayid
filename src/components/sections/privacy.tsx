@@ -69,7 +69,7 @@ export default function PrivacyPolicy() {
             <h2>10. Contact</h2>
             <p>
                 For questions or privacy-related concerns, contact us at:<br />
-                <strong>Email:</strong> mohammedalkaff190@gmail.com
+                <strong>Email:</strong> marketlightningllc@gmail.com
 
 
             </p>
